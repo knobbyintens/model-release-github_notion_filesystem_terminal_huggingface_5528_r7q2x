@@ -1,0 +1,85 @@
+{
+  "collection": "helio-8b-eval-ledger",
+  "campaign": "helio-2026-q4",
+  "export_format": "jsonl",
+  "page_size": 10,
+  "page_count": 12,
+  "total_records": 120,
+  "has_more": false,
+  "pages": [
+    {
+      "cursor": "LGR-01",
+      "file": "ledger/page-01.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-02"
+    },
+    {
+      "cursor": "LGR-02",
+      "file": "ledger/page-02.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-03"
+    },
+    {
+      "cursor": "LGR-03",
+      "file": "ledger/page-03.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-04"
+    },
+    {
+      "cursor": "LGR-04",
+      "file": "ledger/page-04.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-05"
+    },
+    {
+      "cursor": "LGR-05",
+      "file": "ledger/page-05.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-06"
+    },
+    {
+      "cursor": "LGR-06",
+      "file": "ledger/page-06.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-07"
+    },
+    {
+      "cursor": "LGR-07",
+      "file": "ledger/page-07.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-08"
+    },
+    {
+      "cursor": "LGR-08",
+      "file": "ledger/page-08.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-09"
+    },
+    {
+      "cursor": "LGR-09",
+      "file": "ledger/page-09.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-10"
+    },
+    {
+      "cursor": "LGR-10",
+      "file": "ledger/page-10.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-11"
+    },
+    {
+      "cursor": "LGR-11",
+      "file": "ledger/page-11.jsonl",
+      "records": 10,
+      "next_cursor": "LGR-12"
+    },
+    {
+      "cursor": "LGR-12",
+      "file": "ledger/page-12.jsonl",
+      "records": 10,
+      "next_cursor": null
+    }
+  ],
+  "raw_export": "ledger/evaluation_ledger.jsonl",
+  "generated_at": "2026-11-02T09:15:00Z"
+}
