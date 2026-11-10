@@ -1,0 +1,49 @@
+run_id,model,benchmark,score,confidence,owner
+EVAL-0001,Helio-8B-Chat,Code Generation,0.554,0.925,Kenji Watanabe
+EVAL-0002,Helio-8B-Long,Code Generation,0.619,0.915,Sofia Lindqvist
+EVAL-0003,Helio-8B-Instruct,Code Generation,0.645,0.918,Rafael Costa
+EVAL-0004,Helio-8B,Code Generation,0.638,0.950,Hannah Okafor
+EVAL-0005,Helio-8B-Chat,Code Generation,0.599,0.916,Dmitri Volkov
+EVAL-0006,Helio-8B-Long,Code Generation,0.591,0.957,Mei-Ling Chen
+EVAL-0016,Helio-8B,Math Reasoning,0.817,0.929,Amara Diallo
+EVAL-0017,Helio-8B-Chat,Math Reasoning,0.799,0.906,Kenji Watanabe
+EVAL-0018,Helio-8B-Long,Math Reasoning,0.793,0.954,Sofia Lindqvist
+EVAL-0019,Helio-8B-Instruct,Math Reasoning,0.820,0.928,Rafael Costa
+EVAL-0020,Helio-8B,Math Reasoning,0.819,0.976,Hannah Okafor
+EVAL-0021,Helio-8B-Chat,Math Reasoning,0.831,0.931,Dmitri Volkov
+EVAL-0031,Helio-8B-Instruct,Safety Alignment,0.875,0.927,Noah Bergstrom
+EVAL-0032,Helio-8B,Safety Alignment,0.880,0.935,Amara Diallo
+EVAL-0033,Helio-8B-Chat,Safety Alignment,0.879,0.931,Kenji Watanabe
+EVAL-0034,Helio-8B-Long,Safety Alignment,0.928,0.951,Sofia Lindqvist
+EVAL-0035,Helio-8B-Instruct,Safety Alignment,0.902,0.926,Rafael Costa
+EVAL-0036,Helio-8B,Safety Alignment,0.862,0.944,Hannah Okafor
+EVAL-0046,Helio-8B-Long,Logical Reasoning,0.673,0.935,Mei-Ling Chen
+EVAL-0047,Helio-8B-Instruct,Logical Reasoning,0.717,0.966,Noah Bergstrom
+EVAL-0048,Helio-8B,Logical Reasoning,0.705,0.928,Amara Diallo
+EVAL-0049,Helio-8B-Chat,Logical Reasoning,0.747,0.969,Kenji Watanabe
+EVAL-0050,Helio-8B-Long,Logical Reasoning,0.693,0.907,Sofia Lindqvist
+EVAL-0051,Helio-8B-Instruct,Logical Reasoning,0.748,0.963,Rafael Costa
+EVAL-0061,Helio-8B-Chat,Multilingual Understanding,0.644,0.908,Dmitri Volkov
+EVAL-0062,Helio-8B-Long,Multilingual Understanding,0.620,0.941,Mei-Ling Chen
+EVAL-0063,Helio-8B-Instruct,Multilingual Understanding,0.664,0.939,Noah Bergstrom
+EVAL-0064,Helio-8B,Multilingual Understanding,0.672,0.934,Amara Diallo
+EVAL-0065,Helio-8B-Chat,Multilingual Understanding,0.603,0.954,Kenji Watanabe
+EVAL-0066,Helio-8B-Long,Multilingual Understanding,0.632,0.940,Sofia Lindqvist
+EVAL-0076,Helio-8B,Instruction Following,0.703,0.968,Hannah Okafor
+EVAL-0077,Helio-8B-Chat,Instruction Following,0.713,0.972,Dmitri Volkov
+EVAL-0078,Helio-8B-Long,Instruction Following,0.703,0.918,Mei-Ling Chen
+EVAL-0079,Helio-8B-Instruct,Instruction Following,0.701,0.934,Noah Bergstrom
+EVAL-0080,Helio-8B,Instruction Following,0.708,0.984,Amara Diallo
+EVAL-0081,Helio-8B-Chat,Instruction Following,0.756,0.928,Kenji Watanabe
+EVAL-0091,Helio-8B-Instruct,Common Sense Reasoning,0.756,0.936,Rafael Costa
+EVAL-0092,Helio-8B,Common Sense Reasoning,0.744,0.983,Hannah Okafor
+EVAL-0093,Helio-8B-Chat,Common Sense Reasoning,0.753,0.910,Dmitri Volkov
+EVAL-0094,Helio-8B-Long,Common Sense Reasoning,0.771,0.973,Mei-Ling Chen
+EVAL-0095,Helio-8B-Instruct,Common Sense Reasoning,0.723,0.927,Noah Bergstrom
+EVAL-0096,Helio-8B,Common Sense Reasoning,0.736,0.903,Amara Diallo
+EVAL-0106,Helio-8B-Long,Reading Comprehension,0.789,0.984,Sofia Lindqvist
+EVAL-0107,Helio-8B-Instruct,Reading Comprehension,0.747,0.937,Rafael Costa
+EVAL-0108,Helio-8B,Reading Comprehension,0.780,0.960,Hannah Okafor
+EVAL-0109,Helio-8B-Chat,Reading Comprehension,0.795,0.912,Dmitri Volkov
+EVAL-0110,Helio-8B-Long,Reading Comprehension,0.748,0.971,Mei-Ling Chen
+EVAL-0111,Helio-8B-Instruct,Reading Comprehension,0.808,0.908,Noah Bergstrom
