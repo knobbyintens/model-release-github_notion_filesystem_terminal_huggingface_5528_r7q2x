@@ -10,14 +10,14 @@ This card consolidates the released evaluation runs for the Helio-8B family befo
 
 | Benchmark | Helio-8B | Reference Baseline |
 | --- | --- | --- |
-| Math Reasoning | 0.813 | 0.612 |
-| Logical Reasoning | 0.714 | 0.585 |
-| Common Sense Reasoning | 0.747 | 0.641 |
-| Code Generation | 0.608 | 0.557 |
-| Reading Comprehension | 0.778 | 0.607 |
-| Instruction Following | 0.714 | 0.593 |
-| Safety Alignment | 0.888 | 0.702 |
-| Multilingual Understanding | 0.639 | 0.549 |
+| Math Reasoning | {RESULT} | 0.612 |
+| Logical Reasoning | {RESULT} | 0.585 |
+| Common Sense Reasoning | {RESULT} | 0.641 |
+| Code Generation | {RESULT} | 0.557 |
+| Reading Comprehension | {RESULT} | 0.607 |
+| Instruction Following | {RESULT} | 0.593 |
+| Safety Alignment | {RESULT} | 0.702 |
+| Multilingual Understanding | {RESULT} | 0.549 |
 
 ## Operating Notes
 
